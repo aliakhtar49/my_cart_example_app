@@ -65,6 +65,7 @@ flutter:
     - assets/images/cat1.jpeg
     - assets/images/cat2.jpeg
     - assets/images/cat3.jpeg
+    - assets/images/free-delivery.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

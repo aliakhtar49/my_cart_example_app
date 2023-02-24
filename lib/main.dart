@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:my_cart_example_app/model/Cart.dart';
-import 'CatalogPage.dart';
-import '../model/PetModel.dart';
+import 'screens/CatalogPage.dart';
+import 'model/PetModel.dart';
 
 void main() {
   runApp(MyApp());
